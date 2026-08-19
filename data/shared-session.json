@@ -1,14 +1,14 @@
 {
-  "count": 0,
+  "count": 6,
   "obsHash": "DEFAULT1",
   "settings": {
     "sensitivity": 158,
     "cooldown": 2500,
     "label": "Disparos",
-    "showLabel": false,
-    "textColor": "#000000",
+    "showLabel": true,
+    "textColor": "#e1a847",
     "backgroundColor": "#ffffff",
-    "transparentBackground": false,
+    "transparentBackground": true,
     "fontFamily": "system-ui",
     "fontSize": 183,
     "showTarget": true,
