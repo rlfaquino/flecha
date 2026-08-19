@@ -1,0 +1,4 @@
+node_modules/
+dist/
+certs/dev-key.pem
+certs/dev-cert.pem
