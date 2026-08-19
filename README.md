@@ -477,4 +477,4 @@ Acesse `https://localhost:5173` no computador ou `https://IP_DO_SERVIDOR:5173` n
 
 ## Licença
 
-A licença deve ser definida pelo proprietário do repositório antes da publicação. Para um projeto pessoal no GitHub, recomenda-se escolher uma licença conhecida, como MIT, caso você queira permitir reutilização e modificações.
+![Licença](https://shields.io)
